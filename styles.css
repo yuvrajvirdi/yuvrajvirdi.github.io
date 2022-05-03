@@ -461,11 +461,8 @@ a {
 
 
 .effect .buttons {
-    margin-top: 50px;
     display: flex;
     justify-content: center;
-    
-   
 }
 .effect a:last-child {
     margin-right: 0px;
