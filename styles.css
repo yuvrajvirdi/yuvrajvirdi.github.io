@@ -462,6 +462,7 @@ a {
 
 .effect .buttons {
     display: flex;
+    
     justify-content: center;
 }
 .effect a:last-child {
