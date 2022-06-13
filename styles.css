@@ -143,16 +143,8 @@ a {
     width: 100%;
 	min-height: 100vh;
     background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrowsecat.net%2Faestetic%2Faesthetic-movement-wallpapers&psig=AOvVaw2LEYmDOktiw8TIyV0EHrbR&ust=1651557136852000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCzpPiPwPcCFQAAAAAdAAAAABAJ');
-    background: linear-gradient(40deg, #b57f8f,#8f7990, #5f85a9, #577b9d);
-    background-size: 400% 400%;
-    animation: gradient 10s ease infinite;
 }
 
-
-.about-wrapper .section{
-	
-
-}
 .about-wrapper .container{
 	width: 80%;
 	display: block;
